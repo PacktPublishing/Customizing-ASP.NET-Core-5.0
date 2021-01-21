@@ -57,7 +57,7 @@ With the following software and hardware list you can run all code files present
 ### Related products <Other books you may enjoy>
 * An Atypical ASP.NET Core 5 Design Patterns Guide [[Packt]](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091) [[Amazon]](https://www.amazon.com/dp/1789346096)
 
-* ASP.NET Core 5 and React, Second Edition[[Packt]](https://www.packtpub.com/product/asp-net-core-5-and-react-second-edition/9781800206168) [[Amazon]](https://www.amazon.com/dp/180020616X)
+* ASP.NET Core 5 and React, Second Edition [[Packt]](https://www.packtpub.com/product/asp-net-core-5-and-react-second-edition/9781800206168) [[Amazon]](https://www.amazon.com/dp/180020616X)
 
 ## Get to Know the Author
 **Jürgen Gutsch**
