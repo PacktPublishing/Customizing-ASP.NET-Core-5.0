@@ -64,3 +64,7 @@ With the following software and hardware list you can run all code files present
  is a .NET addicted web developer, working with ASP.NET since 2002. He is a Microsoft MVP for Developer Technologies, the leader of a .NET user group in Basel and of the INETA Germany. He works as a software developer, consultant, and trainer at YOO AG in Basel. Along with his family and job, he is presenting technical talks, writes articles for .NET magazines, and posts in his blog, titled ASP.NET Hacker.
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801077866">https://packt.link/free-ebook/9781801077866 </a> </p>
